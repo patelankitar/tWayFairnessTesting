@@ -1,0 +1,34 @@
+[System]
+-- specify system name
+Name: TCAS_WithInvalidValues
+
+[Parameter]
+-- general syntax is parameter_name : value1, value2, ...
+Cur_Vertical_Sep (int) : [299], [300], 601 ; -1, -2
+High_Confidence (boolean) : [TRUE], FALSE
+Two_of_Three_Reports_Valid (boolean) : TRUE, [FALSE]
+Own_Tracked_Alt (enum) : [1], 2
+Other_Tracked_Alt (int) : [1], 2
+Own_Tracked_Alt_Rate (int) : [600], 601
+Alt_Layer_Value (int) : [0], 1, 2, 3
+Up_Separation (int) : [0], 399, 400, 499, 500, 639, 640, 739, 740, 840
+Down_Separation (int) : [0], 399, 400, 499, 500, 639, 640, 739, 740, 840
+Other_RAC (enum) : NO_INTENT, DO_NOT_CLIMB, [DO_NOT_DESCEND]
+Other_Capability (enum) : [TCAS_TA], OTHER ; InvalidStr
+Climb_Inhibit (boolean) : [TRUE], FALSE
+
+[Relation]
+-- this section is optional
+-- general format Rx : (p1, p2, ..., pk, Strength)
+R1 : (Cur_Vertical_Sep, Up_Separation, Down_Separation, 3)
+
+[Constraint]
+-- this section is also optional
+Cur_Vertical_Sep != 299 => Other_Capability != "OTHER"
+Climb_Inhibit = true => Up_Separation > 399
+
+[Test Set]
+-- set existing test set for extend mode. this is also optional
+-- * represents don't-care value
+Cur_Vertical_Sep, Other_Tracked_Alt, Alt_Layer_Value, Climb_Inhibit 
+-1,1,0,false

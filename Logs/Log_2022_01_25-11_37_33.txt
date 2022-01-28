@@ -1,0 +1,26 @@
+2022-01-25 11:37:33.068752 - Execution Started
+2022-01-25 11:37:33.068763 - default values
+2022-01-25 11:37:33.074888 - Dataset = Dataset/GermanCredit_AI360_Modified.csv
+2022-01-25 11:37:33.074904 - Model = Models/GermanCredit_AI360_Modified_RF_model.h5
+2022-01-25 11:37:33.074907 - Create ACTS parameter file
+ Number of Unique values = 33 for Int attribute = duration 
+	 Get all values using DT for Int attribute duration 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 17
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 921 for Int attribute = amount 
+	 Get all values using DT for Int attribute amount 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 4
+ Number of Unique values = 4 for Int attribute = installment 
+	 writing all unique values to param file Number of Unique values = 4 for Int attribute = residence 
+	 writing all unique values to param file Number of Unique values = 53 for Int attribute = age 
+	 Get all values using DT for Int attribute age 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 32
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 4 for Int attribute = cards 
+	 writing all unique values to param file Number of Unique values = 2 for Int attribute = liable 
+	 writing all unique values to param file2022-01-25 11:37:33.167242 - ACTS parameter file created
+2022-01-25 11:37:33.167433 - continuous_featuresList = 
+ ['duration', 'amount', 'installment', 'residence', 'age', 'cards', 'liable']

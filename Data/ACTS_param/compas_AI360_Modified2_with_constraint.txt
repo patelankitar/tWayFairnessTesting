@@ -1,0 +1,27 @@
+[System]
+Name : compas_AI360_Modified2
+
+[Parameter]
+sex (enum) : Male,Female
+age (int) :0,1,2,3,4,5,6,7
+age_cat (enum) : Greater than 45,25 - 45,Less than 25
+race (enum) : Other,African-American,Caucasian,Hispanic,Native American,Asian
+juv_fel_count (int) :0,1,2,3,4,5
+juv_misd_count (int) :0,1,2,3,4
+juv_other_count (int) :0,1,2,3,4,5,6,7
+priors_count (int) :0,1,2,3,4,5,6
+c_charge_degree (enum) : F,M
+
+
+[Constraint]
+juv_misd_count=0 && juv_other_count=0  => juv_fel_count=0 
+juv_misd_count=0  => juv_fel_count=0 
+juv_other_count=0  => juv_fel_count=0 
+juv_fel_count=0 && juv_other_count=0  => juv_misd_count=0 
+juv_other_count=0  => juv_misd_count=0 
+juv_fel_count=0  => juv_misd_count=0 
+juv_fel_count=0 && juv_misd_count=0  => juv_other_count=0 
+juv_misd_count=0  => juv_other_count=0 
+juv_fel_count=0  => juv_other_count=0 
+juv_other_count=0  => juv_fel_count=0 && juv_misd_count=0 
+

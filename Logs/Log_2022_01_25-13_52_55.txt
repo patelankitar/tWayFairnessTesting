@@ -1,0 +1,6 @@
+2022-01-25 13:52:55.311081 - Execution Started
+2022-01-25 13:52:55.311105 - default values
+2022-01-25 13:52:55.359950 - Generate 2Way abstract test cases
+2022-01-25 13:52:56.323556 - abstract test case file created
+2022-01-25 13:52:56.323740 - Create concrete TC from abstract test cases
+2022-01-25 13:52:57.553483 - Concrete TC file created

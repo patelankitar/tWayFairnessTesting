@@ -1,0 +1,30 @@
+2022-01-25 12:42:45.151566 - Execution Started
+2022-01-25 12:42:45.151576 - default values
+2022-01-25 12:42:45.159367 - Dataset = Dataset/compas_AI360_Modified2.csv
+2022-01-25 12:42:45.159419 - Model = Models/compas_AI360_Modified_LR_model.h5
+2022-01-25 12:42:45.159422 - Create ACTS parameter file
+ Number of Unique values = 65 for Int attribute = age 
+	 Get all values using DT for Int attribute age 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 49
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 11 for Int attribute = juv_fel_count 
+	 Get all values using DT for Int attribute juv_fel_count 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 6
+ Number of Unique values = 10 for Int attribute = juv_misd_count 
+	 Get all values using DT for Int attribute juv_misd_count 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 5
+ Number of Unique values = 10 for Int attribute = juv_other_count 
+	 Get all values using DT for Int attribute juv_other_count 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 8
+ Number of Unique values = 37 for Int attribute = priors_count 
+	 Get all values using DT for Int attribute priors_count 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 25
+	 # Bins  > 8 , So generating DT of Depth = 3
+2022-01-25 12:42:45.281618 - ACTS parameter file created
+2022-01-25 12:42:45.281885 - continuous_featuresList = 
+ ['age', 'juv_fel_count', 'juv_misd_count', 'juv_other_count', 'priors_count']

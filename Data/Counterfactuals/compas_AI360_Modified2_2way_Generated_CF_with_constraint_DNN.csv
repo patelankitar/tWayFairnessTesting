@@ -1,0 +1,10 @@
+sex,age,age_cat,race,juv_fel_count,juv_misd_count,juv_other_count,priors_count,c_charge_degree,two_year_recid
+Male,18.0,25 - 45,Other,1.0,2.0,6.0,0.0,F,0.494
+Female,31.0,25 - 45,Other,2.0,1.0,3.0,0.0,M,0.47
+Male,31.0,Less than 25,Hispanic,4.0,3.0,4.0,1.0,F,0.523
+Female,31.0,Less than 25,Other,6.0,5.0,5.0,2.0,M,0.496
+Female,35.0,25 - 45,Other,2.0,1.0,3.0,1.0,M,0.489
+Male,35.0,25 - 45,Hispanic,4.0,2.0,4.0,2.0,F,0.501
+Female,35.0,25 - 45,Other,6.0,3.0,5.0,3.0,F,0.446
+Female,54.0,25 - 45,Other,4.0,5.0,3.0,3.0,M,0.436
+Male,72.0,Less than 25,Hispanic,6.0,1.0,4.0,8.0,F,0.552

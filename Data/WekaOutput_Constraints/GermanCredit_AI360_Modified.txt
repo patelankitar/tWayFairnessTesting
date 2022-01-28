@@ -1,0 +1,71 @@
+=== Run information ===
+
+Scheme:       weka.associations.Apriori -N 10 -T 0 -C 0.9 -D 0.05 -U 1.0 -M 0.1 -S -1.0 -c -1
+Relation:     GermanCredit_AI360_Modified_With_abstract_values-weka.filters.unsupervised.attribute.Remove-R21-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+Instances:    1000
+Attributes:   20
+              checkingstatus
+              duration
+              history
+              purpose
+              amount
+              savings
+              employ
+              installment
+              others
+              residence
+              property
+              age
+              otherplans
+              housing
+              cards
+              job
+              liable
+              tele
+              foreign
+              sex
+=== Associator model (full training set) ===
+
+
+Apriori
+=======
+
+Minimum support: 0.7 (700 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 6
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 5
+
+Size of set of large itemsets L(2): 5
+
+Size of set of large itemsets L(3): 2
+
+Best rules found:
+
+ 1. others=A101 liable=1 767 ==> foreign=A201 749    <conf:(0.98)> lift:(1.01) lev:(0.01) [10] conv:(1.49)
+ 2. others=A101 907 ==> foreign=A201 880    <conf:(0.97)> lift:(1.01) lev:(0.01) [6] conv:(1.2)
+ 3. liable=1 845 ==> foreign=A201 819    <conf:(0.97)> lift:(1.01) lev:(0.01) [5] conv:(1.16)
+ 4. others=A101 otherplans=A143 742 ==> foreign=A201 718    <conf:(0.97)> lift:(1) lev:(0) [3] conv:(1.1)
+ 5. otherplans=A143 814 ==> foreign=A201 782    <conf:(0.96)> lift:(1) lev:(-0) [-1] conv:(0.91)
+ 6. otherplans=A143 foreign=A201 782 ==> others=A101 718    <conf:(0.92)> lift:(1.01) lev:(0.01) [8] conv:(1.12)
+ 7. liable=1 foreign=A201 819 ==> others=A101 749    <conf:(0.91)> lift:(1.01) lev:(0.01) [6] conv:(1.07)
+ 8. foreign=A201 963 ==> others=A101 880    <conf:(0.91)> lift:(1.01) lev:(0.01) [6] conv:(1.07)
+ 9. otherplans=A143 814 ==> others=A101 742    <conf:(0.91)> lift:(1.01) lev:(0) [3] conv:(1.04)
+10. liable=1 845 ==> others=A101 767    <conf:(0.91)> lift:(1) lev:(0) [0] conv:(0.99)
+
+
+
+[Constraint]
+others="A101" && liable=1  => foreign="A201" 
+others="A101"  => foreign="A201" 
+liable=1  => foreign="A201" 
+others="A101" && otherplans="A143" => foreign="A201"
+otherplans="A143"  => foreign="A201" 
+otherplans="A143" && foreign="A201"  => others="A101" 
+liable=1 && foreign="A201"  => others="A101" 
+foreign="A201"  => others="A101" 
+otherplans="A143"  => others="A101" 
+liable=1  => others="A101" 
+

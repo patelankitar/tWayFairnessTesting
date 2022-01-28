@@ -1,0 +1,6 @@
+checkingstatus,duration,history,purpose,amount,savings,employ,installment,others,residence,property,age,otherplans,housing,cards,job,liable,tele,foreign,sex,GoodCredit
+A13,9,A33,A40,2286,A65,A72,1,A102,2,A122,59.0,A142,A151,2,A174,2,A192,A202,male,0
+A12,7,A31,A44,2376,A63,A72,3,A101,3,A122,42.0,A143,A153,3,A174,1,A192,A201,female,1
+A14,4,A30,A45,2286,A63,A71,3,A102,3,A124,48.0,A142,A152,1,A173,2,A191,A202,male,0
+A12,13,A32,A45,14391,A61,A73,2,A101,4,A122,24.0,A143,A151,2,A171,1,A192,A201,male,0
+A14,4,A30,A410,2286,A62,A71,3,A102,1,A124,27.0,A142,A152,1,A173,2,A191,A202,male,0

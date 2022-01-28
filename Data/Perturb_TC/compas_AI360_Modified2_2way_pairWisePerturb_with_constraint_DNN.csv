@@ -1,0 +1,769 @@
+Expected_ModelPred,Expected_PredValue,sex,age,age_cat,race,juv_fel_count,juv_misd_count,juv_other_count,priors_count,c_charge_degree,TC
+[0.7183248996734619],1,Male,18,25 - 45,Other,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,Other,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Male,18,25 - 45,African-American,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,African-American,0,0,0,1,M,OrigionalTC0
+[0.7183248996734619],1,Male,18,25 - 45,Caucasian,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,Caucasian,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Male,18,25 - 45,Hispanic,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,Hispanic,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Male,18,25 - 45,Native American,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,Native American,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Male,18,25 - 45,Asian,0,0,0,1,M,PerturbTC0
+[0.7183248996734619],1,Female,18,25 - 45,Asian,0,0,0,1,M,PerturbTC0
+[0.8613516688346863],1,Male,18,Less than 25,Other,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Female,18,Less than 25,Other,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Male,18,Less than 25,African-American,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Female,18,Less than 25,African-American,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Male,18,Less than 25,Caucasian,1,1,1,2,F,OrigionalTC1
+[0.8613516688346863],1,Female,18,Less than 25,Caucasian,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Male,18,Less than 25,Hispanic,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Female,18,Less than 25,Hispanic,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Male,18,Less than 25,Native American,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Female,18,Less than 25,Native American,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Male,18,Less than 25,Asian,1,1,1,2,F,PerturbTC1
+[0.8613516688346863],1,Female,18,Less than 25,Asian,1,1,1,2,F,PerturbTC1
+[0.8306105732917786],1,Male,18,Greater than 45,Other,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,Other,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Male,18,Greater than 45,African-American,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,African-American,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Male,18,Greater than 45,Caucasian,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,Caucasian,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Male,18,Greater than 45,Hispanic,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,Hispanic,2,2,2,3,F,OrigionalTC2
+[0.8306105732917786],1,Male,18,Greater than 45,Native American,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,Native American,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Male,18,Greater than 45,Asian,2,2,2,3,F,PerturbTC2
+[0.8306105732917786],1,Female,18,Greater than 45,Asian,2,2,2,3,F,PerturbTC2
+[0.9239805936813354],1,Male,18,25 - 45,Other,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Female,18,25 - 45,Other,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Male,18,25 - 45,African-American,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Female,18,25 - 45,African-American,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Male,18,25 - 45,Caucasian,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Female,18,25 - 45,Caucasian,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Male,18,25 - 45,Hispanic,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Female,18,25 - 45,Hispanic,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Male,18,25 - 45,Native American,3,3,3,6,M,OrigionalTC3
+[0.9239805936813354],1,Female,18,25 - 45,Native American,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Male,18,25 - 45,Asian,3,3,3,6,M,PerturbTC3
+[0.9239805936813354],1,Female,18,25 - 45,Asian,3,3,3,6,M,PerturbTC3
+[0.9484278559684753],1,Male,18,Less than 25,Other,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,Other,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Male,18,Less than 25,African-American,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,African-American,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Male,18,Less than 25,Caucasian,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,Caucasian,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Male,18,Less than 25,Hispanic,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,Hispanic,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Male,18,Less than 25,Native American,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,Native American,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Male,18,Less than 25,Asian,4,5,4,8,M,PerturbTC4
+[0.9484278559684753],1,Female,18,Less than 25,Asian,4,5,4,8,M,OrigionalTC4
+[0.9898223876953125],1,Male,18,Greater than 45,Other,6,1,5,18,M,OrigionalTC5
+[0.9898223876953125],1,Female,18,Greater than 45,Other,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Male,18,Greater than 45,African-American,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Female,18,Greater than 45,African-American,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Male,18,Greater than 45,Caucasian,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Female,18,Greater than 45,Caucasian,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Male,18,Greater than 45,Hispanic,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Female,18,Greater than 45,Hispanic,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Male,18,Greater than 45,Native American,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Female,18,Greater than 45,Native American,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Male,18,Greater than 45,Asian,6,1,5,18,M,PerturbTC5
+[0.9898223876953125],1,Female,18,Greater than 45,Asian,6,1,5,18,M,PerturbTC5
+[0.698310136795044],1,Male,18,25 - 45,Other,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Female,18,25 - 45,Other,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Male,18,25 - 45,African-American,1,2,6,0,F,OrigionalTC6
+[0.698310136795044],1,Female,18,25 - 45,African-American,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Male,18,25 - 45,Caucasian,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Female,18,25 - 45,Caucasian,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Male,18,25 - 45,Hispanic,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Female,18,25 - 45,Hispanic,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Male,18,25 - 45,Native American,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Female,18,25 - 45,Native American,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Male,18,25 - 45,Asian,1,2,6,0,F,PerturbTC6
+[0.698310136795044],1,Female,18,25 - 45,Asian,1,2,6,0,F,PerturbTC6
+[0.740920901298523],1,Male,18,Less than 25,Other,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,Other,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Male,18,Less than 25,African-American,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,African-American,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Male,18,Less than 25,Caucasian,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,Caucasian,2,3,7,1,F,OrigionalTC7
+[0.740920901298523],1,Male,18,Less than 25,Hispanic,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,Hispanic,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Male,18,Less than 25,Native American,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,Native American,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Male,18,Less than 25,Asian,2,3,7,1,F,PerturbTC7
+[0.740920901298523],1,Female,18,Less than 25,Asian,2,3,7,1,F,PerturbTC7
+[0.765302300453186],1,Male,20,Greater than 45,Other,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Female,20,Greater than 45,Other,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Male,20,Greater than 45,African-American,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Female,20,Greater than 45,African-American,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Male,20,Greater than 45,Caucasian,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Female,20,Greater than 45,Caucasian,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Male,20,Greater than 45,Hispanic,0,0,0,2,F,OrigionalTC8
+[0.765302300453186],1,Female,20,Greater than 45,Hispanic,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Male,20,Greater than 45,Native American,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Female,20,Greater than 45,Native American,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Male,20,Greater than 45,Asian,0,0,0,2,F,PerturbTC8
+[0.765302300453186],1,Female,20,Greater than 45,Asian,0,0,0,2,F,PerturbTC8
+[0.8378170728683472],1,Male,20,25 - 45,Other,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,Other,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Male,20,25 - 45,African-American,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,African-American,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Male,20,25 - 45,Caucasian,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,Caucasian,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Male,20,25 - 45,Hispanic,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,Hispanic,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Male,20,25 - 45,Native American,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,Native American,4,5,1,3,M,OrigionalTC9
+[0.8378170728683472],1,Male,20,25 - 45,Asian,4,5,1,3,M,PerturbTC9
+[0.8378170728683472],1,Female,20,25 - 45,Asian,4,5,1,3,M,PerturbTC9
+[0.9081698656082153],1,Male,20,Less than 25,Other,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,Other,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Male,20,Less than 25,African-American,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,African-American,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Male,20,Less than 25,Caucasian,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,Caucasian,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Male,20,Less than 25,Hispanic,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,Hispanic,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Male,20,Less than 25,Native American,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,Native American,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Male,20,Less than 25,Asian,6,1,2,6,F,PerturbTC10
+[0.9081698656082153],1,Female,20,Less than 25,Asian,6,1,2,6,F,OrigionalTC10
+[0.9117400646209717],1,Male,20,Greater than 45,Other,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,Other,1,2,3,8,F,OrigionalTC11
+[0.9117400646209717],1,Male,20,Greater than 45,African-American,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,African-American,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Male,20,Greater than 45,Caucasian,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,Caucasian,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Male,20,Greater than 45,Hispanic,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,Hispanic,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Male,20,Greater than 45,Native American,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,Native American,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Male,20,Greater than 45,Asian,1,2,3,8,F,PerturbTC11
+[0.9117400646209717],1,Female,20,Greater than 45,Asian,1,2,3,8,F,PerturbTC11
+[0.988208532333374],1,Male,20,Greater than 45,Other,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,Other,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Male,20,Greater than 45,African-American,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,African-American,3,3,4,18,F,OrigionalTC12
+[0.988208532333374],1,Male,20,Greater than 45,Caucasian,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,Caucasian,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Male,20,Greater than 45,Hispanic,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,Hispanic,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Male,20,Greater than 45,Native American,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,Native American,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Male,20,Greater than 45,Asian,3,3,4,18,F,PerturbTC12
+[0.988208532333374],1,Female,20,Greater than 45,Asian,3,3,4,18,F,PerturbTC12
+[0.5928778648376465],1,Male,20,Greater than 45,Other,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Female,20,Greater than 45,Other,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Male,20,Greater than 45,African-American,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Female,20,Greater than 45,African-American,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Male,20,Greater than 45,Caucasian,4,5,5,0,F,OrigionalTC13
+[0.5928778648376465],1,Female,20,Greater than 45,Caucasian,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Male,20,Greater than 45,Hispanic,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Female,20,Greater than 45,Hispanic,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Male,20,Greater than 45,Native American,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Female,20,Greater than 45,Native American,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Male,20,Greater than 45,Asian,4,5,5,0,F,PerturbTC13
+[0.5928778648376465],1,Female,20,Greater than 45,Asian,4,5,5,0,F,PerturbTC13
+[0.7824424505233765],1,Male,20,25 - 45,Other,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Female,20,25 - 45,Other,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Male,20,25 - 45,African-American,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Female,20,25 - 45,African-American,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Male,20,25 - 45,Caucasian,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Female,20,25 - 45,Caucasian,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Male,20,25 - 45,Hispanic,6,5,6,1,M,OrigionalTC14
+[0.7824424505233765],1,Female,20,25 - 45,Hispanic,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Male,20,25 - 45,Native American,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Female,20,25 - 45,Native American,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Male,20,25 - 45,Asian,6,5,6,1,M,PerturbTC14
+[0.7824424505233765],1,Female,20,25 - 45,Asian,6,5,6,1,M,PerturbTC14
+[0.8646057844161987],1,Male,20,25 - 45,Other,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Female,20,25 - 45,Other,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Male,20,25 - 45,African-American,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Female,20,25 - 45,African-American,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Male,20,25 - 45,Caucasian,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Female,20,25 - 45,Caucasian,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Male,20,25 - 45,Hispanic,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Female,20,25 - 45,Hispanic,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Male,20,25 - 45,Native American,2,1,7,2,M,OrigionalTC15
+[0.8646057844161987],1,Female,20,25 - 45,Native American,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Male,20,25 - 45,Asian,2,1,7,2,M,PerturbTC15
+[0.8646057844161987],1,Female,20,25 - 45,Asian,2,1,7,2,M,PerturbTC15
+[0.9001232385635376],1,Male,21,Less than 25,Other,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Female,21,Less than 25,Other,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Male,21,Less than 25,African-American,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Female,21,Less than 25,African-American,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Male,21,Less than 25,Caucasian,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Female,21,Less than 25,Caucasian,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Male,21,Less than 25,Hispanic,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Female,21,Less than 25,Hispanic,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Male,21,Less than 25,Native American,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Female,21,Less than 25,Native American,0,0,0,3,M,PerturbTC16
+[0.9001232385635376],1,Male,21,Less than 25,Asian,0,0,0,3,M,OrigionalTC16
+[0.9001232385635376],1,Female,21,Less than 25,Asian,0,0,0,3,M,PerturbTC16
+[0.8489701747894287],1,Male,21,Greater than 45,Other,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,Other,2,5,1,6,F,OrigionalTC17
+[0.8489701747894287],1,Male,21,Greater than 45,African-American,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,African-American,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Male,21,Greater than 45,Caucasian,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,Caucasian,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Male,21,Greater than 45,Hispanic,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,Hispanic,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Male,21,Greater than 45,Native American,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,Native American,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Male,21,Greater than 45,Asian,2,5,1,6,F,PerturbTC17
+[0.8489701747894287],1,Female,21,Greater than 45,Asian,2,5,1,6,F,PerturbTC17
+[0.9347914457321167],1,Male,21,25 - 45,Other,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Female,21,25 - 45,Other,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Male,21,25 - 45,African-American,3,1,2,8,M,OrigionalTC18
+[0.9347914457321167],1,Female,21,25 - 45,African-American,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Male,21,25 - 45,Caucasian,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Female,21,25 - 45,Caucasian,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Male,21,25 - 45,Hispanic,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Female,21,25 - 45,Hispanic,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Male,21,25 - 45,Native American,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Female,21,25 - 45,Native American,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Male,21,25 - 45,Asian,3,1,2,8,M,PerturbTC18
+[0.9347914457321167],1,Female,21,25 - 45,Asian,3,1,2,8,M,PerturbTC18
+[0.9886163473129272],1,Male,21,Less than 25,Other,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,Other,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Male,21,Less than 25,African-American,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,African-American,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Male,21,Less than 25,Caucasian,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,Caucasian,4,2,3,18,M,OrigionalTC19
+[0.9886163473129272],1,Male,21,Less than 25,Hispanic,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,Hispanic,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Male,21,Less than 25,Native American,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,Native American,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Male,21,Less than 25,Asian,4,2,3,18,M,PerturbTC19
+[0.9886163473129272],1,Female,21,Less than 25,Asian,4,2,3,18,M,PerturbTC19
+[0.5242440104484558],1,Male,21,Less than 25,Other,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,Other,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Male,21,Less than 25,African-American,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,African-American,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Male,21,Less than 25,Caucasian,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,Caucasian,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Male,21,Less than 25,Hispanic,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,Hispanic,6,3,4,0,M,OrigionalTC20
+[0.5242440104484558],1,Male,21,Less than 25,Native American,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,Native American,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Male,21,Less than 25,Asian,6,3,4,0,M,PerturbTC20
+[0.5242440104484558],1,Female,21,Less than 25,Asian,6,3,4,0,M,PerturbTC20
+[0.6960668563842773],1,Male,21,Greater than 45,Other,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,Other,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Male,21,Greater than 45,African-American,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,African-American,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Male,21,Greater than 45,Caucasian,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,Caucasian,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Male,21,Greater than 45,Hispanic,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,Hispanic,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Male,21,Greater than 45,Native American,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,Native American,1,2,5,1,F,OrigionalTC21
+[0.6960668563842773],1,Male,21,Greater than 45,Asian,1,2,5,1,F,PerturbTC21
+[0.6960668563842773],1,Female,21,Greater than 45,Asian,1,2,5,1,F,PerturbTC21
+[0.7855004072189331],1,Male,21,Less than 25,Other,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,Other,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Male,21,Less than 25,African-American,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,African-American,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Male,21,Less than 25,Caucasian,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,Caucasian,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Male,21,Less than 25,Hispanic,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,Hispanic,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Male,21,Less than 25,Native American,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,Native American,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Male,21,Less than 25,Asian,3,3,6,2,M,PerturbTC22
+[0.7855004072189331],1,Female,21,Less than 25,Asian,3,3,6,2,M,OrigionalTC22
+[0.8573472499847412],1,Male,21,25 - 45,Other,3,5,7,3,M,OrigionalTC23
+[0.8573472499847412],1,Female,21,25 - 45,Other,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Male,21,25 - 45,African-American,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Female,21,25 - 45,African-American,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Male,21,25 - 45,Caucasian,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Female,21,25 - 45,Caucasian,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Male,21,25 - 45,Hispanic,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Female,21,25 - 45,Hispanic,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Male,21,25 - 45,Native American,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Female,21,25 - 45,Native American,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Male,21,25 - 45,Asian,3,5,7,3,M,PerturbTC23
+[0.8573472499847412],1,Female,21,25 - 45,Asian,3,5,7,3,M,PerturbTC23
+[0.7958685159683228],1,Male,31,25 - 45,Other,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Female,31,25 - 45,Other,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Male,31,25 - 45,African-American,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Female,31,25 - 45,African-American,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Male,31,25 - 45,Caucasian,0,0,0,6,M,OrigionalTC24
+[0.7958685159683228],1,Female,31,25 - 45,Caucasian,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Male,31,25 - 45,Hispanic,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Female,31,25 - 45,Hispanic,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Male,31,25 - 45,Native American,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Female,31,25 - 45,Native American,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Male,31,25 - 45,Asian,0,0,0,6,M,PerturbTC24
+[0.7958685159683228],1,Female,31,25 - 45,Asian,0,0,0,6,M,PerturbTC24
+[0.8646564483642578],1,Male,31,Less than 25,Other,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,Other,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Male,31,Less than 25,African-American,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,African-American,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Male,31,Less than 25,Caucasian,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,Caucasian,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Male,31,Less than 25,Hispanic,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,Hispanic,6,2,1,8,F,OrigionalTC25
+[0.8646564483642578],1,Male,31,Less than 25,Native American,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,Native American,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Male,31,Less than 25,Asian,6,2,1,8,F,PerturbTC25
+[0.8646564483642578],1,Female,31,Less than 25,Asian,6,2,1,8,F,PerturbTC25
+[0.9730015993118286],1,Male,31,Greater than 45,Other,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,Other,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Male,31,Greater than 45,African-American,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,African-American,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Male,31,Greater than 45,Caucasian,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,Caucasian,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Male,31,Greater than 45,Hispanic,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,Hispanic,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Male,31,Greater than 45,Native American,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,Native American,1,5,2,18,M,OrigionalTC26
+[0.9730015993118286],1,Male,31,Greater than 45,Asian,1,5,2,18,M,PerturbTC26
+[0.9730015993118286],1,Female,31,Greater than 45,Asian,1,5,2,18,M,PerturbTC26
+[0.36707836389541626],0,Male,31,25 - 45,Other,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Female,31,25 - 45,Other,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Male,31,25 - 45,African-American,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Female,31,25 - 45,African-American,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Male,31,25 - 45,Caucasian,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Female,31,25 - 45,Caucasian,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Male,31,25 - 45,Hispanic,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Female,31,25 - 45,Hispanic,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Male,31,25 - 45,Native American,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Female,31,25 - 45,Native American,2,1,3,0,M,PerturbTC27
+[0.36707836389541626],0,Male,31,25 - 45,Asian,2,1,3,0,M,OrigionalTC27
+[0.36707836389541626],0,Female,31,25 - 45,Asian,2,1,3,0,M,PerturbTC27
+[0.5389495491981506],1,Male,31,Less than 25,Other,4,3,4,1,F,OrigionalTC28
+[0.5389495491981506],1,Female,31,Less than 25,Other,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Male,31,Less than 25,African-American,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Female,31,Less than 25,African-American,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Male,31,Less than 25,Caucasian,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Female,31,Less than 25,Caucasian,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Male,31,Less than 25,Hispanic,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Female,31,Less than 25,Hispanic,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Male,31,Less than 25,Native American,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Female,31,Less than 25,Native American,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Male,31,Less than 25,Asian,4,3,4,1,F,PerturbTC28
+[0.5389495491981506],1,Female,31,Less than 25,Asian,4,3,4,1,F,PerturbTC28
+[0.5401425957679749],1,Male,31,Less than 25,Other,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,Other,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Male,31,Less than 25,African-American,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,African-American,6,5,5,2,M,OrigionalTC29
+[0.5401425957679749],1,Male,31,Less than 25,Caucasian,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,Caucasian,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Male,31,Less than 25,Hispanic,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,Hispanic,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Male,31,Less than 25,Native American,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,Native American,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Male,31,Less than 25,Asian,6,5,5,2,M,PerturbTC29
+[0.5401425957679749],1,Female,31,Less than 25,Asian,6,5,5,2,M,PerturbTC29
+[0.7136630415916443],1,Male,31,Greater than 45,Other,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Female,31,Greater than 45,Other,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Male,31,Greater than 45,African-American,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Female,31,Greater than 45,African-American,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Male,31,Greater than 45,Caucasian,3,1,6,3,F,OrigionalTC30
+[0.7136630415916443],1,Female,31,Greater than 45,Caucasian,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Male,31,Greater than 45,Hispanic,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Female,31,Greater than 45,Hispanic,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Male,31,Greater than 45,Native American,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Female,31,Greater than 45,Native American,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Male,31,Greater than 45,Asian,3,1,6,3,F,PerturbTC30
+[0.7136630415916443],1,Female,31,Greater than 45,Asian,3,1,6,3,F,PerturbTC30
+[0.8367010951042175],1,Male,31,Greater than 45,Other,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Female,31,Greater than 45,Other,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Male,31,Greater than 45,African-American,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Female,31,Greater than 45,African-American,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Male,31,Greater than 45,Caucasian,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Female,31,Greater than 45,Caucasian,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Male,31,Greater than 45,Hispanic,4,2,7,6,M,OrigionalTC31
+[0.8367010951042175],1,Female,31,Greater than 45,Hispanic,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Male,31,Greater than 45,Native American,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Female,31,Greater than 45,Native American,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Male,31,Greater than 45,Asian,4,2,7,6,M,PerturbTC31
+[0.8367010951042175],1,Female,31,Greater than 45,Asian,4,2,7,6,M,PerturbTC31
+[0.8811402320861816],1,Male,35,Less than 25,Other,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Female,35,Less than 25,Other,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Male,35,Less than 25,African-American,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Female,35,Less than 25,African-American,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Male,35,Less than 25,Caucasian,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Female,35,Less than 25,Caucasian,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Male,35,Less than 25,Hispanic,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Female,35,Less than 25,Hispanic,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Male,35,Less than 25,Native American,0,0,0,8,F,OrigionalTC32
+[0.8811402320861816],1,Female,35,Less than 25,Native American,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Male,35,Less than 25,Asian,0,0,0,8,F,PerturbTC32
+[0.8811402320861816],1,Female,35,Less than 25,Asian,0,0,0,8,F,PerturbTC32
+[0.9719840288162231],1,Male,35,25 - 45,Other,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,Other,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Male,35,25 - 45,African-American,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,African-American,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Male,35,25 - 45,Caucasian,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,Caucasian,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Male,35,25 - 45,Hispanic,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,Hispanic,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Male,35,25 - 45,Native American,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,Native American,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Male,35,25 - 45,Asian,1,3,1,18,M,PerturbTC33
+[0.9719840288162231],1,Female,35,25 - 45,Asian,1,3,1,18,M,OrigionalTC33
+[0.33033838868141174],0,Male,35,Greater than 45,Other,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,Other,3,2,2,0,M,OrigionalTC34
+[0.33033838868141174],0,Male,35,Greater than 45,African-American,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,African-American,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Male,35,Greater than 45,Caucasian,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,Caucasian,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Male,35,Greater than 45,Hispanic,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,Hispanic,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Male,35,Greater than 45,Native American,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,Native American,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Male,35,Greater than 45,Asian,3,2,2,0,M,PerturbTC34
+[0.33033838868141174],0,Female,35,Greater than 45,Asian,3,2,2,0,M,PerturbTC34
+[0.4490947425365448],0,Male,35,25 - 45,Other,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Female,35,25 - 45,Other,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Male,35,25 - 45,African-American,2,1,3,1,M,OrigionalTC35
+[0.4490947425365448],0,Female,35,25 - 45,African-American,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Male,35,25 - 45,Caucasian,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Female,35,25 - 45,Caucasian,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Male,35,25 - 45,Hispanic,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Female,35,25 - 45,Hispanic,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Male,35,25 - 45,Native American,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Female,35,25 - 45,Native American,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Male,35,25 - 45,Asian,2,1,3,1,M,PerturbTC35
+[0.4490947425365448],0,Female,35,25 - 45,Asian,2,1,3,1,M,PerturbTC35
+[0.5827909111976624],1,Male,35,25 - 45,Other,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Female,35,25 - 45,Other,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Male,35,25 - 45,African-American,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Female,35,25 - 45,African-American,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Male,35,25 - 45,Caucasian,4,2,4,2,F,OrigionalTC36
+[0.5827909111976624],1,Female,35,25 - 45,Caucasian,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Male,35,25 - 45,Hispanic,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Female,35,25 - 45,Hispanic,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Male,35,25 - 45,Native American,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Female,35,25 - 45,Native American,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Male,35,25 - 45,Asian,4,2,4,2,F,PerturbTC36
+[0.5827909111976624],1,Female,35,25 - 45,Asian,4,2,4,2,F,PerturbTC36
+[0.7042088508605957],1,Male,35,25 - 45,Other,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Female,35,25 - 45,Other,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Male,35,25 - 45,African-American,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Female,35,25 - 45,African-American,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Male,35,25 - 45,Caucasian,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Female,35,25 - 45,Caucasian,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Male,35,25 - 45,Hispanic,6,3,5,3,F,OrigionalTC37
+[0.7042088508605957],1,Female,35,25 - 45,Hispanic,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Male,35,25 - 45,Native American,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Female,35,25 - 45,Native American,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Male,35,25 - 45,Asian,6,3,5,3,F,PerturbTC37
+[0.7042088508605957],1,Female,35,25 - 45,Asian,6,3,5,3,F,PerturbTC37
+[0.8909571766853333],1,Male,35,Less than 25,Other,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Female,35,Less than 25,Other,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Male,35,Less than 25,African-American,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Female,35,Less than 25,African-American,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Male,35,Less than 25,Caucasian,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Female,35,Less than 25,Caucasian,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Male,35,Less than 25,Hispanic,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Female,35,Less than 25,Hispanic,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Male,35,Less than 25,Native American,1,5,6,6,M,OrigionalTC38
+[0.8909571766853333],1,Female,35,Less than 25,Native American,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Male,35,Less than 25,Asian,1,5,6,6,M,PerturbTC38
+[0.8909571766853333],1,Female,35,Less than 25,Asian,1,5,6,6,M,PerturbTC38
+[0.8433587551116943],1,Male,35,Greater than 45,Other,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Female,35,Greater than 45,Other,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Male,35,Greater than 45,African-American,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Female,35,Greater than 45,African-American,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Male,35,Greater than 45,Caucasian,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Female,35,Greater than 45,Caucasian,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Male,35,Greater than 45,Hispanic,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Female,35,Greater than 45,Hispanic,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Male,35,Greater than 45,Native American,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Female,35,Greater than 45,Native American,2,3,7,8,F,PerturbTC39
+[0.8433587551116943],1,Male,35,Greater than 45,Asian,2,3,7,8,F,OrigionalTC39
+[0.8433587551116943],1,Female,35,Greater than 45,Asian,2,3,7,8,F,PerturbTC39
+[0.9309754371643066],1,Male,52,Less than 25,Other,0,0,0,18,F,OrigionalTC40
+[0.9309754371643066],1,Female,52,Less than 25,Other,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Male,52,Less than 25,African-American,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Female,52,Less than 25,African-American,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Male,52,Less than 25,Caucasian,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Female,52,Less than 25,Caucasian,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Male,52,Less than 25,Hispanic,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Female,52,Less than 25,Hispanic,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Male,52,Less than 25,Native American,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Female,52,Less than 25,Native American,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Male,52,Less than 25,Asian,0,0,0,18,F,PerturbTC40
+[0.9309754371643066],1,Female,52,Less than 25,Asian,0,0,0,18,F,PerturbTC40
+[0.20343655347824097],0,Male,52,Greater than 45,Other,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,Other,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Male,52,Greater than 45,African-American,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,African-American,3,1,1,0,M,OrigionalTC41
+[0.20343655347824097],0,Male,52,Greater than 45,Caucasian,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,Caucasian,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Male,52,Greater than 45,Hispanic,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,Hispanic,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Male,52,Greater than 45,Native American,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,Native American,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Male,52,Greater than 45,Asian,3,1,1,0,M,PerturbTC41
+[0.20343655347824097],0,Female,52,Greater than 45,Asian,3,1,1,0,M,PerturbTC41
+[0.26232510805130005],0,Male,52,25 - 45,Other,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,Other,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Male,52,25 - 45,African-American,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,African-American,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Male,52,25 - 45,Caucasian,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,Caucasian,4,3,2,1,F,OrigionalTC42
+[0.26232510805130005],0,Male,52,25 - 45,Hispanic,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,Hispanic,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Male,52,25 - 45,Native American,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,Native American,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Male,52,25 - 45,Asian,4,3,2,1,F,PerturbTC42
+[0.26232510805130005],0,Female,52,25 - 45,Asian,4,3,2,1,F,PerturbTC42
+[0.32814446091651917],0,Male,52,Less than 25,Other,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,Other,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Male,52,Less than 25,African-American,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,African-American,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Male,52,Less than 25,Caucasian,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,Caucasian,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Male,52,Less than 25,Hispanic,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,Hispanic,6,5,3,2,F,OrigionalTC43
+[0.32814446091651917],0,Male,52,Less than 25,Native American,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,Native American,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Male,52,Less than 25,Asian,6,5,3,2,F,PerturbTC43
+[0.32814446091651917],0,Female,52,Less than 25,Asian,6,5,3,2,F,PerturbTC43
+[0.39378103613853455],0,Male,52,Less than 25,Other,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,Other,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Male,52,Less than 25,African-American,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,African-American,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Male,52,Less than 25,Caucasian,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,Caucasian,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Male,52,Less than 25,Hispanic,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,Hispanic,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Male,52,Less than 25,Native American,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,Native American,1,1,4,3,F,OrigionalTC44
+[0.39378103613853455],0,Male,52,Less than 25,Asian,1,1,4,3,F,PerturbTC44
+[0.39378103613853455],0,Female,52,Less than 25,Asian,1,1,4,3,F,PerturbTC44
+[0.7136630415916443],1,Male,52,Greater than 45,Other,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Female,52,Greater than 45,Other,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,African-American,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Female,52,Greater than 45,African-American,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,Caucasian,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Female,52,Greater than 45,Caucasian,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,Hispanic,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Female,52,Greater than 45,Hispanic,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,Native American,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Female,52,Greater than 45,Native American,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,Asian,2,2,5,6,M,OrigionalTC45
+[0.7136630415916443],1,Female,52,Greater than 45,Asian,2,2,5,6,M,PerturbTC45
+[0.7136630415916443],1,Male,52,Greater than 45,Other,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,Other,4,1,6,8,M,OrigionalTC46
+[0.7136630415916443],1,Male,52,Greater than 45,African-American,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,African-American,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Male,52,Greater than 45,Caucasian,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,Caucasian,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Male,52,Greater than 45,Hispanic,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,Hispanic,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Male,52,Greater than 45,Native American,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,Native American,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Male,52,Greater than 45,Asian,4,1,6,8,M,PerturbTC46
+[0.7136630415916443],1,Female,52,Greater than 45,Asian,4,1,6,8,M,PerturbTC46
+[0.9244053363800049],1,Male,52,Greater than 45,Other,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,Other,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Male,52,Greater than 45,African-American,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,African-American,6,3,7,18,M,OrigionalTC47
+[0.9244053363800049],1,Male,52,Greater than 45,Caucasian,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,Caucasian,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Male,52,Greater than 45,Hispanic,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,Hispanic,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Male,52,Greater than 45,Native American,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,Native American,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Male,52,Greater than 45,Asian,6,3,7,18,M,PerturbTC47
+[0.9244053363800049],1,Female,52,Greater than 45,Asian,6,3,7,18,M,PerturbTC47
+[0.21065130829811096],0,Male,54,Less than 25,Other,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Female,54,Less than 25,Other,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Male,54,Less than 25,African-American,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Female,54,Less than 25,African-American,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Male,54,Less than 25,Caucasian,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Female,54,Less than 25,Caucasian,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Male,54,Less than 25,Hispanic,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Female,54,Less than 25,Hispanic,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Male,54,Less than 25,Native American,0,0,0,0,F,OrigionalTC48
+[0.21065130829811096],0,Female,54,Less than 25,Native American,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Male,54,Less than 25,Asian,0,0,0,0,F,PerturbTC48
+[0.21065130829811096],0,Female,54,Less than 25,Asian,0,0,0,0,F,PerturbTC48
+[0.2461661696434021],0,Male,54,Greater than 45,Other,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,Other,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Male,54,Greater than 45,African-American,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,African-American,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Male,54,Greater than 45,Caucasian,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,Caucasian,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Male,54,Greater than 45,Hispanic,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,Hispanic,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Male,54,Greater than 45,Native American,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,Native American,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Male,54,Greater than 45,Asian,3,2,1,1,M,PerturbTC49
+[0.2461661696434021],0,Female,54,Greater than 45,Asian,3,2,1,1,M,OrigionalTC49
+[0.2964653968811035],0,Male,54,25 - 45,Other,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,Other,1,3,2,2,F,OrigionalTC50
+[0.2964653968811035],0,Male,54,25 - 45,African-American,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,African-American,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Male,54,25 - 45,Caucasian,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,Caucasian,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Male,54,25 - 45,Hispanic,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,Hispanic,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Male,54,25 - 45,Native American,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,Native American,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Male,54,25 - 45,Asian,1,3,2,2,F,PerturbTC50
+[0.2964653968811035],0,Female,54,25 - 45,Asian,1,3,2,2,F,PerturbTC50
+[0.44507256150245667],0,Male,54,25 - 45,Other,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Female,54,25 - 45,Other,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Male,54,25 - 45,African-American,4,5,3,3,M,OrigionalTC51
+[0.44507256150245667],0,Female,54,25 - 45,African-American,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Male,54,25 - 45,Caucasian,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Female,54,25 - 45,Caucasian,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Male,54,25 - 45,Hispanic,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Female,54,25 - 45,Hispanic,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Male,54,25 - 45,Native American,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Female,54,25 - 45,Native American,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Male,54,25 - 45,Asian,4,5,3,3,M,PerturbTC51
+[0.44507256150245667],0,Female,54,25 - 45,Asian,4,5,3,3,M,PerturbTC51
+[0.7136630415916443],1,Male,54,Greater than 45,Other,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,Other,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Male,54,Greater than 45,African-American,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,African-American,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Male,54,Greater than 45,Caucasian,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,Caucasian,2,1,4,6,M,OrigionalTC52
+[0.7136630415916443],1,Male,54,Greater than 45,Hispanic,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,Hispanic,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Male,54,Greater than 45,Native American,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,Native American,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Male,54,Greater than 45,Asian,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Female,54,Greater than 45,Asian,2,1,4,6,M,PerturbTC52
+[0.7136630415916443],1,Male,54,25 - 45,Other,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,Other,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Male,54,25 - 45,African-American,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,African-American,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Male,54,25 - 45,Caucasian,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,Caucasian,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Male,54,25 - 45,Hispanic,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,Hispanic,3,1,5,8,F,OrigionalTC53
+[0.7136630415916443],1,Male,54,25 - 45,Native American,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,Native American,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Male,54,25 - 45,Asian,3,1,5,8,F,PerturbTC53
+[0.7136630415916443],1,Female,54,25 - 45,Asian,3,1,5,8,F,PerturbTC53
+[0.9584696292877197],1,Male,54,Less than 25,Other,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Female,54,Less than 25,Other,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Male,54,Less than 25,African-American,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Female,54,Less than 25,African-American,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Male,54,Less than 25,Caucasian,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Female,54,Less than 25,Caucasian,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Male,54,Less than 25,Hispanic,2,2,6,18,M,OrigionalTC54
+[0.9584696292877197],1,Female,54,Less than 25,Hispanic,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Male,54,Less than 25,Native American,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Female,54,Less than 25,Native American,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Male,54,Less than 25,Asian,2,2,6,18,M,PerturbTC54
+[0.9584696292877197],1,Female,54,Less than 25,Asian,2,2,6,18,M,PerturbTC54
+[0.22449493408203125],0,Male,54,Greater than 45,Other,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Female,54,Greater than 45,Other,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Male,54,Greater than 45,African-American,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Female,54,Greater than 45,African-American,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Male,54,Greater than 45,Caucasian,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Female,54,Greater than 45,Caucasian,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Male,54,Greater than 45,Hispanic,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Female,54,Greater than 45,Hispanic,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Male,54,Greater than 45,Native American,6,3,7,0,F,OrigionalTC55
+[0.22449493408203125],0,Female,54,Greater than 45,Native American,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Male,54,Greater than 45,Asian,6,3,7,0,F,PerturbTC55
+[0.22449493408203125],0,Female,54,Greater than 45,Asian,6,3,7,0,F,PerturbTC55
+[0.14956802129745483],0,Male,72,Less than 25,Other,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Female,72,Less than 25,Other,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Male,72,Less than 25,African-American,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Female,72,Less than 25,African-American,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Male,72,Less than 25,Caucasian,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Female,72,Less than 25,Caucasian,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Male,72,Less than 25,Hispanic,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Female,72,Less than 25,Hispanic,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Male,72,Less than 25,Native American,0,0,0,1,F,OrigionalTC56
+[0.14956802129745483],0,Female,72,Less than 25,Native American,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Male,72,Less than 25,Asian,0,0,0,1,F,PerturbTC56
+[0.14956802129745483],0,Female,72,Less than 25,Asian,0,0,0,1,F,PerturbTC56
+[0.1770084798336029],0,Male,72,Greater than 45,Other,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,Other,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Male,72,Greater than 45,African-American,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,African-American,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Male,72,Greater than 45,Caucasian,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,Caucasian,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Male,72,Greater than 45,Hispanic,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,Hispanic,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Male,72,Greater than 45,Native American,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,Native American,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Male,72,Greater than 45,Asian,1,2,1,2,M,PerturbTC57
+[0.1770084798336029],0,Female,72,Greater than 45,Asian,1,2,1,2,M,OrigionalTC57
+[0.23956483602523804],0,Male,72,25 - 45,Other,2,3,2,3,F,OrigionalTC58
+[0.23956483602523804],0,Female,72,25 - 45,Other,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Male,72,25 - 45,African-American,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Female,72,25 - 45,African-American,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Male,72,25 - 45,Caucasian,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Female,72,25 - 45,Caucasian,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Male,72,25 - 45,Hispanic,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Female,72,25 - 45,Hispanic,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Male,72,25 - 45,Native American,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Female,72,25 - 45,Native American,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Male,72,25 - 45,Asian,2,3,2,3,F,PerturbTC58
+[0.23956483602523804],0,Female,72,25 - 45,Asian,2,3,2,3,F,PerturbTC58
+[0.6073250770568848],1,Male,72,Greater than 45,Other,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Female,72,Greater than 45,Other,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Male,72,Greater than 45,African-American,3,5,3,6,M,OrigionalTC59
+[0.6073250770568848],1,Female,72,Greater than 45,African-American,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Male,72,Greater than 45,Caucasian,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Female,72,Greater than 45,Caucasian,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Male,72,Greater than 45,Hispanic,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Female,72,Greater than 45,Hispanic,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Male,72,Greater than 45,Native American,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Female,72,Greater than 45,Native American,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Male,72,Greater than 45,Asian,3,5,3,6,M,PerturbTC59
+[0.6073250770568848],1,Female,72,Greater than 45,Asian,3,5,3,6,M,PerturbTC59
+[0.7101802229881287],1,Male,72,Less than 25,Other,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,Other,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Male,72,Less than 25,African-American,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,African-American,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Male,72,Less than 25,Caucasian,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,Caucasian,6,1,4,8,F,OrigionalTC60
+[0.7101802229881287],1,Male,72,Less than 25,Hispanic,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,Hispanic,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Male,72,Less than 25,Native American,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,Native American,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Male,72,Less than 25,Asian,6,1,4,8,F,PerturbTC60
+[0.7101802229881287],1,Female,72,Less than 25,Asian,6,1,4,8,F,PerturbTC60
+[0.7409383058547974],1,Male,72,Greater than 45,Other,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,Other,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Male,72,Greater than 45,African-American,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,African-American,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Male,72,Greater than 45,Caucasian,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,Caucasian,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Male,72,Greater than 45,Hispanic,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,Hispanic,1,2,5,18,M,OrigionalTC61
+[0.7409383058547974],1,Male,72,Greater than 45,Native American,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,Native American,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Male,72,Greater than 45,Asian,1,2,5,18,M,PerturbTC61
+[0.7409383058547974],1,Female,72,Greater than 45,Asian,1,2,5,18,M,PerturbTC61
+[0.09686794877052307],0,Male,72,Greater than 45,Other,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,Other,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Male,72,Greater than 45,African-American,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,African-American,4,3,6,0,M,OrigionalTC62
+[0.09686794877052307],0,Male,72,Greater than 45,Caucasian,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,Caucasian,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Male,72,Greater than 45,Hispanic,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,Hispanic,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Male,72,Greater than 45,Native American,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,Native American,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Male,72,Greater than 45,Asian,4,3,6,0,M,PerturbTC62
+[0.09686794877052307],0,Female,72,Greater than 45,Asian,4,3,6,0,M,PerturbTC62
+[0.6181424260139465],1,Male,72,Greater than 45,Other,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Female,72,Greater than 45,Other,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Male,72,Greater than 45,African-American,1,3,7,6,M,OrigionalTC63
+[0.6181424260139465],1,Female,72,Greater than 45,African-American,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Male,72,Greater than 45,Caucasian,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Female,72,Greater than 45,Caucasian,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Male,72,Greater than 45,Hispanic,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Female,72,Greater than 45,Hispanic,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Male,72,Greater than 45,Native American,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Female,72,Greater than 45,Native American,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Male,72,Greater than 45,Asian,1,3,7,6,M,PerturbTC63
+[0.6181424260139465],1,Female,72,Greater than 45,Asian,1,3,7,6,M,PerturbTC63

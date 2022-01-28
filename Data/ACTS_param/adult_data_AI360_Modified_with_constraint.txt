@@ -1,0 +1,29 @@
+[System]
+Name : adult_data_AI360_Modified
+
+[Parameter]
+age (int) :0,1,2,3,4,5,6,7
+workclass (enum) : State-gov,Self-emp-not-inc,Private,Federal-gov,Local-gov,Self-emp-inc,Without-pay,Never-worked
+education (enum) : Bachelors,HS-grad,11th,Masters,9th,Some-college,Assoc-acdm,Assoc-voc,7th-8th,Doctorate,Prof-school,5th-6th,10th,1st-4th,Preschool,12th
+education_num (int) :0,1,2,3,4,5,6
+marital_status (enum) : Never-married,Married-civ-spouse,Divorced,Married-spouse-absent,Separated,Married-AF-spouse,Widowed
+occupation (enum) : Adm-clerical,Exec-managerial,Handlers-cleaners,Prof-specialty,Other-service,Sales,Craft-repair,Transport-moving,Farming-fishing,Machine-op-inspct,Tech-support,Protective-serv,Armed-Forces,Priv-house-serv
+relationship (enum) : Not-in-family,Husband,Wife,Own-child,Unmarried,Other-relative
+race (enum) : White,Black,Asian-Pac-Islander,Amer-Indian-Eskimo,Other
+sex (enum) : Male,Female
+capital_gain (int) :0,1,2,3,4
+capital_loss (int) :0,1,2,3,4,5,6,7
+hours_per_week (int) :0,1,2,3,4,5,6,7
+native_country (enum) : United-States,Cuba,Jamaica,India,Mexico,South,Puerto-Rico,Honduras,England,Canada,Germany,Iran,Philippines,Italy,Poland,Columbia,Cambodia,Thailand,Ecuador,Laos,Taiwan,Haiti,Portugal,Dominican-Republic,El-Salvador,France,Guatemala,China,Japan,Yugoslavia,Peru,Outlying-US(Guam-USVI-etc),Scotland,Trinadad&Tobago,Greece,Nicaragua,Vietnam,Hong,Ireland,Hungary,Holand-Netherlands
+
+[Constraint]
+native_country="United-States" => capital_loss=0 
+race="White" => capital_loss=0 
+race="White" && native_country="United-States" => capital_loss=0 
+capital_gain=0 => capital_loss=0     
+capital_gain=0 && native_country="United-States" => capital_loss=0 
+race="White" && capital_gain=0 => capital_loss=0     
+race="White" => native_country="United-States"    
+race="White" && capital_loss=0 => native_country="United-States" 
+race="White" && capital_gain=0 => native_country="United-States" 
+native_country="United-States" => capital_gain=0 

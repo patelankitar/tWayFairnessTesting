@@ -1,0 +1,70 @@
+from,to
+Caucasian,Asian
+1,0
+Female,Male
+Asian,Native American
+0,1
+African-American,Hispanic
+1,0
+Female,Male
+Caucasian,Native American
+0,1
+Female,Male
+Asian,Caucasian
+0,1
+Asian,African-American
+0,1
+Female,Male
+Caucasian,African-American
+0,1
+Female,Male
+Hispanic,Native American
+0,1
+Female,Male
+Asian,Native American
+0,1
+Female,Male
+Hispanic,African-American
+0,1
+Other,Hispanic
+0,1
+Female,Male
+African-American,Native American
+0,1
+Native American,Other
+1,0
+Caucasian,Native American
+0,1
+Hispanic,Native American
+0,1
+Male,Female
+1,0
+Male,Female
+Other,Native American
+0,1
+Female,Male
+Caucasian,Native American
+0,1
+Female,Male
+Hispanic,Native American
+0,1
+Native American,Caucasian
+1,0
+Male,Female
+Native American,Other
+1,0
+Female,Male
+Other,Native American
+0,1
+Female,Male
+Hispanic,Native American
+0,1
+Hispanic,Native American
+0,1
+Native American,Other
+1,0
+Other,Native American
+0,1
+Female,Male
+Caucasian,Hispanic
+0,1

@@ -1,0 +1,38 @@
+[System]
+Name : GermanCredit_AI360_Modified
+
+[Parameter]
+checkingstatus (enum) : A11,A12,A14,A13
+duration (int) :0,1,2,3,4,5,6,7
+history (enum) : A34,A32,A33,A30,A31
+purpose (enum) : A43,A46,A42,A40,A41,A49,A44,A45,A410,A48
+amount (int) :0,1,2,3
+savings (enum) : A65,A61,A63,A64,A62
+employ (enum) : A75,A73,A74,A71,A72
+installment (int) : 1,2,3,4
+others (enum) : A101,A103,A102
+residence (int) : 1,2,3,4
+property (enum) : A121,A122,A124,A123
+age (int) :0,1,2,3,4,5,6,7
+otherplans (enum) : A143,A141,A142
+housing (enum) : A152,A153,A151
+cards (int) : 1,2,3,4
+job (enum) : A173,A172,A174,A171
+liable (int) : 1,2
+tele (enum) : A192,A191
+foreign (enum) : A201,A202
+sex (enum) : male,female
+
+[Constraint]
+others="A101" && liable=1  => foreign="A201" 
+others="A101"  => foreign="A201" 
+liable=1  => foreign="A201" 
+others="A101" && otherplans="A143" => foreign="A201"
+otherplans="A143"  => foreign="A201" 
+otherplans="A143" && foreign="A201"  => others="A101" 
+liable=1 && foreign="A201"  => others="A101" 
+foreign="A201"  => others="A101" 
+otherplans="A143"  => others="A101" 
+liable=1  => others="A101" 
+
+

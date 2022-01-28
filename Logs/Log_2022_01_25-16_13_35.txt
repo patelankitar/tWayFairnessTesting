@@ -1,0 +1,32 @@
+2022-01-25 16:13:35.258825 - Execution Started
+2022-01-25 16:13:35.258835 - default values
+2022-01-25 16:13:35.299967 - Dataset = Dataset/adult_data_AI360_Modified2.csv
+2022-01-25 16:13:35.300053 - Model = Models/adult_data_AI360_Modified_DNN_model.h5
+2022-01-25 16:13:35.300058 - Create ACTS parameter file
+ Number of Unique values = 72 for Int attribute = age 
+	 Get all values using DT for Int attribute age 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 62
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 16 for Int attribute = education_num 
+	 Get all values using DT for Int attribute education_num 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 16
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 118 for Int attribute = capital_gain 
+	 Get all values using DT for Int attribute capital_gain 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 5
+ Number of Unique values = 90 for Int attribute = capital_loss 
+	 Get all values using DT for Int attribute capital_loss 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 9
+	 # Bins  > 8 , So generating DT of Depth = 3
+ Number of Unique values = 94 for Int attribute = hours_per_week 
+	 Get all values using DT for Int attribute hours_per_week 
+	 Generating DT without specifiying depth 
+	 DT length without specifiying depth = 62
+	 # Bins  > 8 , So generating DT of Depth = 3
+2022-01-25 16:13:35.724021 - ACTS parameter file created
+2022-01-25 16:13:35.724925 - continuous_featuresList = 
+ ['age', 'education_num', 'capital_gain', 'capital_loss', 'hours_per_week']

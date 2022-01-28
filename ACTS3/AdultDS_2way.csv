@@ -1,0 +1,49 @@
+# ACTS Test Suite Generation: Tue Oct 19 22:29:51 CDT 2021
+#  '*' represents don't care value 
+# Degree of interaction coverage: -1
+# Number of parameters: 14
+# Maximum number of values per parameter: 42
+# Number of configurations: 42
+age,workclass,fnlwgt,education,education_num,marital_status,occupation,relationship,race,sex,capital_gain,capital_loss,hours_per_week,native_country
+1,Self-emp-not-inc,1,HS-grad,2,Married-civ-spouse,Exec-managerial,Husband,Black,Female,1,1,1,United-States
+2,Private,2,11th,3,Divorced,Handlers-cleaners,Wife,Asian-Pac-Islander,Male,2,2,2,Cuba
+3,Federal-gov,3,Masters,4,Married-spouse-absent,Prof-specialty,Own-child,Amer-Indian-Eskimo,Female,3,3,3,Jamaica
+4,Local-gov,4,9th,5,Separated,Other-service,Unmarried,Other,Female,4,4,4,India
+5,?,5,Some-college,6,Married-AF-spouse,Sales,Other-relative,White,Male,5,5,5,?
+6,Self-emp-inc,6,Assoc-acdm,7,Widowed,Craft-repair,Not-in-family,Asian-Pac-Islander,Female,6,6,6,Mexico
+7,Without-pay,7,Assoc-voc,8,Never-married,Transport-moving,Other-relative,Black,Male,7,7,7,South
+0,Never-worked,0,7th-8th,9,Widowed,Farming-fishing,Wife,Asian-Pac-Islander,Male,0,0,0,Puerto-Rico
+3,State-gov,4,Doctorate,10,Never-married,Machine-op-inspct,Other-relative,White,Male,7,7,7,Honduras
+1,State-gov,2,Prof-school,11,Married-AF-spouse,Tech-support,Not-in-family,Amer-Indian-Eskimo,Female,1,5,0,England
+0,Private,2,5th-6th,12,Never-married,?,Unmarried,White,Female,5,2,3,Canada
+3,Without-pay,6,10th,13,Never-married,Protective-serv,Unmarried,Asian-Pac-Islander,Female,5,7,5,Germany
+4,Federal-gov,5,1st-4th,14,Separated,Armed-Forces,Own-child,Asian-Pac-Islander,Female,7,7,1,Iran
+5,Without-pay,5,Preschool,15,Married-AF-spouse,Priv-house-serv,Unmarried,Amer-Indian-Eskimo,Male,5,0,1,Philippines
+0,Local-gov,5,12th,16,Married-spouse-absent,Adm-clerical,Husband,White,Female,2,6,2,Italy
+4,State-gov,4,Bachelors,1,Widowed,Prof-specialty,Husband,Amer-Indian-Eskimo,Male,0,1,2,Poland
+6,Local-gov,7,Bachelors,7,Divorced,?,Other-relative,Amer-Indian-Eskimo,Female,5,5,1,Columbia
+4,State-gov,6,10th,1,Divorced,Protective-serv,Husband,Black,Male,0,6,7,Cambodia
+5,Private,7,11th,3,Separated,Craft-repair,Unmarried,White,Male,5,2,6,Thailand
+5,Self-emp-not-inc,7,HS-grad,14,Widowed,Sales,Other-relative,Black,Female,4,7,4,Ecuador
+3,?,0,HS-grad,1,Widowed,Craft-repair,Wife,Amer-Indian-Eskimo,Female,7,3,7,Laos
+5,Private,6,Prof-school,5,Widowed,Adm-clerical,Unmarried,Black,Female,5,0,1,Taiwan
+0,State-gov,5,HS-grad,15,Divorced,Farming-fishing,Other-relative,Black,Male,2,5,4,Haiti
+4,Without-pay,7,12th,14,Married-AF-spouse,Farming-fishing,Other-relative,Amer-Indian-Eskimo,Male,1,0,7,Portugal
+2,Local-gov,3,7th-8th,8,Widowed,Machine-op-inspct,Wife,Black,Male,3,4,5,Dominican-Republic
+5,State-gov,4,12th,12,Married-civ-spouse,Priv-house-serv,Wife,Amer-Indian-Eskimo,Male,3,1,4,El-Salvador
+2,State-gov,0,11th,10,Married-spouse-absent,Handlers-cleaners,Not-in-family,White,Female,7,6,2,France
+1,?,5,Assoc-acdm,7,Widowed,Prof-specialty,Own-child,Asian-Pac-Islander,Male,2,5,6,Guatemala
+4,Federal-gov,4,7th-8th,1,Widowed,Other-service,Unmarried,Black,Female,7,0,4,China
+7,State-gov,5,Prof-school,11,Married-spouse-absent,Machine-op-inspct,Wife,White,Male,2,5,3,Japan
+5,?,1,Masters,7,Married-AF-spouse,Other-service,Own-child,Asian-Pac-Islander,Male,7,5,2,Yugoslavia
+6,Self-emp-inc,3,7th-8th,2,Married-civ-spouse,Prof-specialty,Unmarried,Amer-Indian-Eskimo,Male,6,4,0,Peru
+2,?,1,Masters,10,Separated,Farming-fishing,Not-in-family,Amer-Indian-Eskimo,Male,5,2,0,Outlying-US(Guam-USVI-etc)
+1,Private,0,Assoc-voc,5,Divorced,Adm-clerical,Unmarried,Black,Female,5,0,6,Scotland
+0,Without-pay,1,HS-grad,12,Married-spouse-absent,Adm-clerical,Own-child,Black,Female,1,7,7,Trinadad&Tobago
+4,Self-emp-not-inc,2,Bachelors,10,Married-AF-spouse,Other-service,Other-relative,Asian-Pac-Islander,Male,1,4,2,Greece
+2,State-gov,5,Preschool,7,Married-spouse-absent,Protective-serv,Unmarried,Other,Male,5,7,2,Nicaragua
+5,Without-pay,5,Preschool,3,Married-spouse-absent,Prof-specialty,Own-child,Black,Male,4,2,3,Vietnam
+5,Self-emp-inc,7,Assoc-voc,4,Divorced,Adm-clerical,Not-in-family,Amer-Indian-Eskimo,Female,3,0,6,Hong
+5,Private,2,Some-college,8,Married-AF-spouse,Transport-moving,Not-in-family,Asian-Pac-Islander,Female,4,5,7,Ireland
+7,Private,3,Preschool,4,Separated,Handlers-cleaners,Not-in-family,Black,Female,0,1,1,Hungary
+3,Private,0,11th,6,Widowed,?,Wife,Amer-Indian-Eskimo,Male,0,6,5,Holand-Netherlands

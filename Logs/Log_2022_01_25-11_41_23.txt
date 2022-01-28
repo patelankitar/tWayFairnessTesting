@@ -1,0 +1,13 @@
+2022-01-25 11:41:23.510339 - Execution Started
+2022-01-25 11:41:23.510350 - default values
+2022-01-25 11:41:23.515696 - generate counterfactuals using DiCE 
+2022-01-25 11:41:23.619642 - call to DiCE 
+2022-01-25 11:41:23.666102 - Executing Concrete TC in natural order - 
+2022-01-25 11:41:23.666119 - Concrete TC execution sequence - 
+		[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]
+2022-01-25 11:41:32.350383 - Concrete TC count # for which Dice generated a CF - 
+		[7, 10, 20, 30, 33, 54, 55, 59, 63, 71, 75]
+2022-01-25 11:41:32.350413 - Concrete TC  # for which Dice generated a CF - 
+		[5, 8, 18, 28, 31, 52, 53, 57, 61, 69, 73]
+2022-01-25 11:41:32.354222 - CSV file created with DiCE output CF
+2022-01-25 11:41:32.355355 - CSV file created with Concrete TC for which DiCE was able to generate CF
