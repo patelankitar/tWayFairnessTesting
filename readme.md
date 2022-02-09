@@ -17,22 +17,22 @@
 # Code Directories
 
 ## config/
-### This folder contains config files with the Dataset and the ML model file paths. 
+#### This folder contains config files with the Dataset and the ML model file paths. 
 
 <br/>
 
 ## Dataset/
-### This folder contains the training datasets we used for our expirements. 
+#### This folder contains the training datasets we used for our expirements. 
 
 <br/>
 
 ## Models/
-### This folder contains the trained models we have used in our expirements. 
+#### This folder contains the trained models we have used in our expirements. 
 
 <br/>
 
 ## Data/Counterfactuals/
-### This folder containts the counterfactuals generated using Dice. 
+#### This folder containts the counterfactuals generated using Dice. 
 
 
 
