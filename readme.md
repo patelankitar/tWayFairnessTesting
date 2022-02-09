@@ -1,18 +1,14 @@
 # A Combinatorial Approach to Fairness Testing of Machine Learning Models
 
-## We present a combinotorial testing-based model agnostic  approach to perform fairness testing of a pre-trained ML models. 
+## We present combinotorial testing-based model agnostic  approach to perform fairness testing of a pre-trained ML models. 
 
 <br/><br/>
 
+#### Approach Overview
 ![Approach Diagram](/ApproachDiagram.png)
 
 <br/><br/>
 
-# Installations
-* pip install -r requirements.txt
-* pip install dice-ml
-
-<br/>
 
 # Code Directories
 
