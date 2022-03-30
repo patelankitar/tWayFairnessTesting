@@ -21,13 +21,23 @@ def main():
       
         configs = configparser.ConfigParser()
 
-        #configs.read('Config/adult_AI360_LR.cfg')
+        # --------- -------- --------- Adult Income Dataset - AI360
+        # configs.read('Config/adult_AI360_LR.cfg')
+        # configs.read('Config/adult_AI360_RF.cfg')
+        # configs.read('Config/adult_AI360_SVM.cfg')
+        # configs.read('Config/adult_AI360_DNN.cfg')
 
-        #configs.read('Config/germanCredit_LR.cfg')
+        # --------- -------- --------- German Credit Dataset - AI360
         #configs.read('Config/germanCredit_AI360_LR.cfg')
+        #configs.read('Config/germanCredit_AI360_RF.cfg')
+        #configs.read('Config/germanCredit_AI360_SVM.cfg')
+        #configs.read('Config/germanCredit_AI360_DNN.cfg')
 
-        #configs.read('Config/germanCredit_DNN.cfg')
-        configs.read('Config/germanCredit_AI360_DNN.cfg')
+        # --------- -------- --------- COMPOS Dataset - AI360
+        # configs.read('Config/compas_AI360_LR.cfg')
+        # configs.read('Config/compas_AI360_RF.cfg')
+        configs.read('Config/compas_AI360_SVM.cfg')
+        # configs.read('Config/compas_AI360_DNN.cfg')
         
         
         dataset_filePath = str(configs['values']['dataset_filePath'])
